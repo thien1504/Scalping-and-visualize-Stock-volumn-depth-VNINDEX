@@ -6,7 +6,7 @@ When analyzing a particular stock using technical analysis, we need to find a su
 
 Analyzing volume depth within a specific time frame helps us gain a broader perspective on stock price fluctuations. From there, we can identify a favorable price level.
 
-Scraping data from: s.cafef.vn
+Scraping data from: [s.cafef.vn](https://s.cafef.vn/)
 
 ## Library needs to run
 Open cmd to install library:<br>
